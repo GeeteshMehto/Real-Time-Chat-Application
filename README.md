@@ -24,7 +24,7 @@ Make sure you have WinSock2 library installed on your system. This library is ty
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/realtime-chat-app.git
+    git clone [https://github.com/yourusername/realtime-chat-app.git](https://github.com/GeeteshMehto/Real-Time-Chat-Application.git)
     cd realtime-chat-app
     ```
 
